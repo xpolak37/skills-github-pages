@@ -1,5 +1,5 @@
 ---
-title: My Bioinformatics Blog
+title: Skilss github pages
 description: Notes on genomics, sequence analysis and learning to code
 ---
 
